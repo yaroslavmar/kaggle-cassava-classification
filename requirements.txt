@@ -1,2 +1,10 @@
 pandas
 numpy
+keras
+seaborn
+Pillow
+tensorflow
+tensorflow-gpu
+matplotlib
+albumentations
+scikit-learn
